@@ -37,7 +37,7 @@ author:
   type      : "person" # "person" (default), "organization"
   name      : 쿼카
   url       :
-  avatar    : /images/avatar.jpg # path or url of avatar image
+  avatar    : /assests/avatar.png # path or url of avatar image
   bio       : 개발자
   email     : grinquokka@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
