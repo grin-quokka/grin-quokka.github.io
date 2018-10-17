@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-![AVATAR](https://grin-quokka.github.io/assets/avatar.png)
+![AVATAR](https://grin-quokka.github.io/assets/avatar_resize.png)
 
 
 **grin-quokka**
