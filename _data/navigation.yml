@@ -1,5 +1,6 @@
 header:
-  - titles:     Archive
+  - titles:     
+      en:       Archive
     url:        /archive.html
   - titles:
       en:       About
