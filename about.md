@@ -8,6 +8,6 @@ titles:
 key: page-about
 ---
 
-![AVATAR](https://github.com/grin-quokka/images/avatar.png)
+![AVATAR](https://github.com/grin-quokka.github.io/assets/avatar.png)
 grin-quokka
 주니어 웹개발자가 되기 위해 today I learned를 올리고 있습니다 :sparkles:
