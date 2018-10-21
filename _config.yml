@@ -20,7 +20,7 @@ text_skin: chocolate # "default" (default), "dark", "forest", "ocean", "chocolat
 highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://grin-quokka.github.io/
 baseurl : # does not include hostname
-title   : 쿼카의 TIL
+title   : Quokka's TIL
 description: > # this means to ignore newlines until "Language & timezone"
   today I learned...
 
