@@ -10,6 +10,6 @@ key: page-about
 
 ![AVATAR](https://grin-quokka.github.io/assets/avatar_resize.png)
 
-**grin-quokka**
+**:sparkles:grin-quokka:sparkles:**
 
-- 주니어 웹개발자가 되기 위해 today I learned를 올리고 있습니다 :sparkles:
+- 어제와 비교해서 오늘 성장한 점을 매일 올리기 (TIL = today I learned)
